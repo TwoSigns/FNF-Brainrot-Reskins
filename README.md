@@ -7,3 +7,5 @@ Most reskins are uploaded to the TwoSigns youtube channel.
 If you have a reskin idea you'd like to share contact me on discord: TwoSigns
 
 That's all, bye bye
+(I dont use github very often)
+(All reskins will directly added to releases as a zip file.)
